@@ -2,7 +2,7 @@
 <h3 align="center">Hey there, I'm Emirhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-## <img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> Social
+## About Me
 - :telescope: I’m currently working on Data Analyses
 - :seedling: I’m currently learning Data Analyses tools
 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
@@ -10,7 +10,7 @@
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-## <img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> Social <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+## <img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="30"> Social <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrhntzl/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:emrhntzl@gmail.com)
