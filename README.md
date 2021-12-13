@@ -58,3 +58,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmirhanImranTuzel&theme=buefy&" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirhanImranTuzel&theme=buefy &layout=compact" alt="languages" width="50%" > </p>
 
+## Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
+
+![snake gif](https://github.com/EmirhanImranTuzel/EmirhanImranTuzel/blob/output/github-contribution-grid-snake.gif)
