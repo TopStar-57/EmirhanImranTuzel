@@ -44,7 +44,7 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a>
 
-## <a href="https://emoji.gg/emoji/4601_github"><img src="https://emoji.gg/assets/emoji/4601_github.png" width="64px" height="64px" alt="github">My GitHub Data</a>
+## <img src="https://emoji.gg/assets/emoji/4601_github.png" width="64px" height="64px" alt="github"> My GitHub Data
   
 </p>
 <p align="left">
