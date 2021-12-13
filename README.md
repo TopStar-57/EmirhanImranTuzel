@@ -1,8 +1,8 @@
-<center><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="50%" ></center>
+<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
 <h3 align="center">I'm Emirhan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-## About Me
+## About Me <img src="https://previews.123rf.com/images/yayayoy/yayayoy1507/yayayoy150700003/42080144-emoticon-pointing-at-himself-with-both-hands-pick-me-.jpg" width="20%">
 - :telescope: I’m currently working on Data Analyses
 - :seedling: I’m currently learning Data Analyses tools
 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
