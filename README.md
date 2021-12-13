@@ -1,5 +1,5 @@
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there. I'm Emirhan...:
+## Hi there. I'm Emirhan...:<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 - :telescope: I’m currently working on Data Analyses
 - :seedling: I’m currently learning Data Analyses tools
 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
