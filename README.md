@@ -22,6 +22,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EmirhanImranTuzel" alt="EmirhanImranTuzel" /> </p>
 
+
 ## 💻 Data Visualization
 
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
@@ -36,11 +37,29 @@
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="140"/> </a>
 <a href="#" target="_blank"> <img src="https://www.scipy.org/images/logo.svg" alt="SciPy" width="50"/> </a>
 
+## 💻 DevOps 
+
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" height="50"/>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="50"/>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" height="50"/>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" height="50"/>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="ansible" height="50"/>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terrafor" height="50"/>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/chefio/chefio-ar21.svg" alt="chef" height="50"/>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/puppet/puppet-ar21.svg" alt="puppet" height="50"/>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" height="50"/>
+         
+## 💻 Database Management
+ 
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql"  height="50"/>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql"  height="50"/>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb"  height="50"/> 
+<a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"  height="90"/>
+ 
 ## 💻 Languages
 
 <a href="#" target="_blank"> <img src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="150"/></a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="85"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"  height="90"/>
 
 ## ⚙ Project Management Tools
  
@@ -50,8 +69,8 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a><br>
  
 ## Editor / IDE I ♥
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" title="jupyter" height="50"/> </a><br>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" height="55"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" title="jupyter" height="55"/> </a><br>
 
 
 ## <img src="https://emoji.gg/assets/emoji/4601_github.png" width="64px" height="64px" alt="github"> My GitHub Data
