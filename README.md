@@ -41,14 +41,16 @@
 <a href="#" target="_blank"> <img src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="150"/></a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="85"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"  height="90"/>
-  
-## ⚙ Tools
 
-<a href="#" target="_blank"> <img src="https://smartgyann.files.wordpress.com/2020/05/457-4573752_read-more-on-how-you-can-use-your.png" alt="Google Sheets" height="54"/> </a>
+## ⚙ Project Management Tools
+ 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="gitHub" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="50"/> </a>
+ <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a><br>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a><br>
+<a href="#" target="_blank"> <img src="https://smartgyann.files.wordpress.com/2020/05/457-4573752_read-more-on-how-you-can-use-your.png" alt="Google Sheets" height="54"/> </a>
+
 
 ## <img src="https://emoji.gg/assets/emoji/4601_github.png" width="64px" height="64px" alt="github"> My GitHub Data
 
