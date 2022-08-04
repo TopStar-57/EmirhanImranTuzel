@@ -48,7 +48,10 @@
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="gitHub" height="50"/> </a>
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a><br>
-<a href="#" target="_blank"> <img src="https://smartgyann.files.wordpress.com/2020/05/457-4573752_read-more-on-how-you-can-use-your.png" alt="Google Sheets" height="54"/> </a>
+ 
+## Editor / IDE I ♥
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" height="40"/> </a><br>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" title="jupyter" height="40"/> </a><br>
 
 
 ## <img src="https://emoji.gg/assets/emoji/4601_github.png" width="64px" height="64px" alt="github"> My GitHub Data
