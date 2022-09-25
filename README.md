@@ -37,26 +37,18 @@
          
 ## 💻 Database Management
  
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql"  height="55"/>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql"  height="55"/>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb"  height="55"/> 
-<a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"  height="55"/>
+<p><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql"  height="55"/> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql"  height="55"/> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb"  height="55"/>  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"  height="55"/></p>
  
 ## 💻 Languages
 
-<a href="#" target="_blank"> <img src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="150"/></a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="70"/> </a>
+<p><img src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="150"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="70"/></p>
 
 ## 💻 Project Management Tools
  
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="gitHub" height="40"/> </a>
- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="40"/> </a><br>
+<p><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="gitHub" height="40"/>  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="40"/><br></p>
  
 ## 💻 Editor / IDE I ♥
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" height="55"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" title="jupyter" height="55"/> </a><br>
+<p><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" height="55"/> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" title="jupyter" height="55"/><br></p>
 
 
 ## <img src="https://emoji.gg/assets/emoji/4601_github.png" width="64px" height="64px" alt="github"> My GitHub Data
