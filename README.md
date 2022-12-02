@@ -22,15 +22,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EmirhanImranTuzel" alt="EmirhanImranTuzel" /> </p>
 
-
-## 💻 Data Visualization
-
-<p><img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="50"/> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="50"/></p>
-
-## 💻 Python Libraries
-
-<p><img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="110"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="140"/> <img src="https://www.scipy.org/images/logo.svg" alt="SciPy" width="50"/></p>
-
 ## 💻 DevOps 
 
 <p><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" height="60"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="60"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" height="60"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" height="60"/> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="ansible" height="60"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terrafor" height="60"/> <img src="https://www.vectorlogo.zone/logos/chefio/chefio-ar21.svg" alt="chef" height="60"/> <img src="https://www.vectorlogo.zone/logos/puppet/puppet-ar21.svg" alt="puppet" height="60"/> <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" height="60"/></p>
