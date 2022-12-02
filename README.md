@@ -4,21 +4,21 @@
 
 ## <img src="https://previews.123rf.com/images/yayayoy/yayayoy1507/yayayoy150700003/42080144-emoticon-pointing-at-himself-with-both-hands-pick-me-.jpg" width="4%"> About Me <img src="https://previews.123rf.com/images/yayayoy/yayayoy1507/yayayoy150700003/42080144-emoticon-pointing-at-himself-with-both-hands-pick-me-.jpg" width="4%">
  
-<div align="center">
-  <a href="https://www.enes.software/">
-    <img src="./icon/devops.gif">
-  </a>
-</div>
- 
 <a href="#"><img width="100%" height="auto" src="https://scikey-wowprod-mumbaisouth.s3.amazonaws.com/upload/photos/2021/04/oqkv1XF4OK4xrXcozAC5_17_3bc5a0ace75ab4a92457b8d52f5e0245_image.png" height="75px"/></a>
 - :telescope: I’m currently working on Data Analyses
 - :seedling:  I’m currently learning cloud computing and devops tools
 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
 - 🎃 Fun Fact: I Always try to learn something new and then sleep till it store in the brain 😎<br>
  
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
+ <div align="center">
+  <a href="https://www.enes.software/">
+    <img src="./icon/devops.gif">
+  </a>
+</div>
+ 
 ## <img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="25"> Reach Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
+ 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrhntzl/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:emrhntzl@gmail.com)
