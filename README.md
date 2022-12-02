@@ -50,6 +50,6 @@
  
 <div align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/EmirhanImranTuzel/EmirhanImranTuzel/main/3D-contribute/profile-night-rainbow.svg"/>
+    <img src="https://raw.githubusercontent.com/EmirhanImranTuzel/EmirhanImranTuzel/main/profile-3d-contrib/profile-night-rainbow.svg"/>
   </a>
 </div>
